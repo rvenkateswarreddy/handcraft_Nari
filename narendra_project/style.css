@@ -241,6 +241,12 @@ textarea {
   align-items: center;
   background-color: rgb(227, 217, 217);
 }
+iframe {
+  width: 80vw;
+  height: 50vh;
+  margin: 50px 0px 50px 200px;
+  border: 2px solid black;
+}
 @media screen and (min-width: 767px) and (max-width: 1024px) {
   .navbar {
     justify-content: space-around;
